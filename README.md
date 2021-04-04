@@ -26,7 +26,6 @@
 
 ## 技术
 
-
 |  |  | 
 | --- | --- |
 | ![重学前端](https://upload-images.jianshu.io/upload_images/12890819-8c5f5f92e11fbc76.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  | ![Vue 开发实战](https://upload-images.jianshu.io/upload_images/12890819-66a0052ec5a9a49f.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  | 
@@ -62,8 +61,7 @@
 | ![DevOps 实战笔记](https://upload-images.jianshu.io/upload_images/12890819-0d2d1cc323591744.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  |  ![数据中台实战课](https://upload-images.jianshu.io/upload_images/12890819-0590432ceca0420d.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) | 
 | ![后端存储实战课](https://upload-images.jianshu.io/upload_images/12890819-96d788a3ae6491a5.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  |  ![RPC 实战与核心原理](https://upload-images.jianshu.io/upload_images/12890819-2f9e69c170870af8.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) | 
 |  ![跟月影学可视化](https://upload-images.jianshu.io/upload_images/12890819-da11358767656763.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) |  ![乔新亮的 CTO 成长复盘](https://upload-images.jianshu.io/upload_images/12890819-703d1118854206b9.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) | 
-|  ![从 0 开始学游戏开发](https://upload-images.jianshu.io/upload_images/12890819-312a80cdee585034.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) | ![MySql 实战 45 讲](https://upload-images.jianshu.io/upload_images/12890819-e86e0d2793211cbe.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-  | 
+|  ![从 0 开始学游戏开发](https://upload-images.jianshu.io/upload_images/12890819-312a80cdee585034.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) | ![MySql 实战 45 讲](https://upload-images.jianshu.io/upload_images/12890819-e86e0d2793211cbe.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) | 
 |  ![深度学习推荐系统实战](https://upload-images.jianshu.io/upload_images/12890819-b6b63ba26f95e027.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) |  ![selenium 自动化测试实战](https://upload-images.jianshu.io/upload_images/12890819-939a6cc4f4d644f7.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) | 
 | ![后端技术面试 38 讲](https://upload-images.jianshu.io/upload_images/12890819-ae5a0d787eae25c3.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  |  ![微信小程序全栈开发实战](https://upload-images.jianshu.io/upload_images/12890819-6e4ca3844b7f8217.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) | 
 | ![代码精进之路](https://upload-images.jianshu.io/upload_images/12890819-265bcbe11cda7a80.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  |  ![运维体系管理课](https://upload-images.jianshu.io/upload_images/12890819-167bea3e6b3417b9.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) | 
@@ -83,8 +81,7 @@
 | ![面试现场](https://upload-images.jianshu.io/upload_images/12890819-e1de1edc754b254e.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  |  ![DDD实战课](https://upload-images.jianshu.io/upload_images/12890819-1ccc1fea4e13696b.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) | 
 | ![编译原理之美](https://upload-images.jianshu.io/upload_images/12890819-e4806fd9722307a2.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  | ![Web协议详解与抓包实战](https://upload-images.jianshu.io/upload_images/12890819-e106796110c2ab67.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  | 
 |  ![微服务架构实战 160 讲](https://upload-images.jianshu.io/upload_images/12890819-0e7716fe12f0174a.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) | ![36 讲.从技术到管理的进阶之路](https://upload-images.jianshu.io/upload_images/12890819-6a44f741a851bc22.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  | 
-|  ![消息队列高手课](https://upload-images.jianshu.io/upload_images/12890819-484c0a93b66db784.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) | ![推荐系统 36 式](https://upload-images.jianshu.io/upload_images/12890819-eedf01f8bb781334.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-  | 
+|  ![消息队列高手课](https://upload-images.jianshu.io/upload_images/12890819-484c0a93b66db784.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) | ![推荐系统 36 式](https://upload-images.jianshu.io/upload_images/12890819-eedf01f8bb781334.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) | 
 |  ![IOS 开发高手课](https://upload-images.jianshu.io/upload_images/12890819-720a06c855874074.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) |  ![高并发系统设计 40 问](https://upload-images.jianshu.io/upload_images/12890819-8dbc1db2eea6993c.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) | 
 | ![人工智能基础课](https://upload-images.jianshu.io/upload_images/12890819-4d222a987eff43af.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  | ![Android 开发高手课](https://upload-images.jianshu.io/upload_images/12890819-559421c5062ace4e.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  | 
 | ![SQL 必知必会](https://upload-images.jianshu.io/upload_images/12890819-d0b66945542b162a.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  |  ![Redis 核心技术与实战](https://upload-images.jianshu.io/upload_images/12890819-3617d919630b121d.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) | 
@@ -95,8 +92,7 @@
 | ![Java 并发编程实战](https://upload-images.jianshu.io/upload_images/12890819-5fbb48263f5c24f8.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  | ![深入浅出计算机组件原理](https://upload-images.jianshu.io/upload_images/12890819-1cdb3ec4cbbd4372.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  | 
 | ![Python 核心技术与实战](https://upload-images.jianshu.io/upload_images/12890819-2b843bc195e6f360.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  | ![0 基础学 Python](https://upload-images.jianshu.io/upload_images/12890819-8b12beef533f1300.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  | 
 |  ![Nginx 核心知识 100 讲](https://upload-images.jianshu.io/upload_images/12890819-8b82ce001e48a56a.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) |  ![数据分析实战 45 讲](https://upload-images.jianshu.io/upload_images/12890819-1469f9ade7cb78c0.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) | 
-| ![许式伟的架构课](https://upload-images.jianshu.io/upload_images/12890819-ab36b6aec1e0dbce.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  |  ![Elasticsearch 核心技术与实战](https://upload-images.jianshu.io/upload_images/12890819-889ccd36674100ed.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
- | 
+| ![许式伟的架构课](https://upload-images.jianshu.io/upload_images/12890819-ab36b6aec1e0dbce.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  |  ![Elasticsearch 核心技术与实战](https://upload-images.jianshu.io/upload_images/12890819-889ccd36674100ed.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) | 
 | ![Go 语言核心 36 讲](https://upload-images.jianshu.io/upload_images/12890819-aed7874625b2760d.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  |  ![趣谈 Liunx 操作系统](https://upload-images.jianshu.io/upload_images/12890819-ceeb0ef804756d9f.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) | 
 |  ![linux 性能优化实战](https://upload-images.jianshu.io/upload_images/12890819-2c719017b8bdd311.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) |  ![玩转 Spring 全家桶](https://upload-images.jianshu.io/upload_images/12890819-d372445040565e87.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) | 
 | ![深入剖析 Kubernetes](https://upload-images.jianshu.io/upload_images/12890819-e20936e156c993f8.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  |  ![Java 核心技术面试精讲](https://upload-images.jianshu.io/upload_images/12890819-2bf8b21218d16f1e.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) | 
@@ -106,9 +102,9 @@
 | ![算法面试通关 40 讲](https://upload-images.jianshu.io/upload_images/12890819-4617b2f525a36110.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  |  ![程序员的数学基础课](https://upload-images.jianshu.io/upload_images/12890819-4c93f42460b49968.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) | 
 | ![MongoDb 高手课](https://upload-images.jianshu.io/upload_images/12890819-cd63cc26711092ae.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  |  ![Node.js 开发实战](https://upload-images.jianshu.io/upload_images/12890819-1ac688b188149b2c.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) | 
 |  ![大厂晋升指南](https://upload-images.jianshu.io/upload_images/12890819-d9fc6ff1d31466a0.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) |   ![Electron 开发实战](https://upload-images.jianshu.io/upload_images/12890819-762ee4a5ec60a2c8.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)|      
-|  ![Vim 实用技巧必知必会](https://upload-images.jianshu.io/upload_images/12890819-a95ec85d34b4b0df.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) |  ![从 0 开始学架构](https://upload-images.jianshu.io/upload_images/12890819-b1c9fe57055eb8ed.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)| 
-|
+|  ![Vim 实用技巧必知必会](https://upload-images.jianshu.io/upload_images/12890819-a95ec85d34b4b0df.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) |  ![从 0 开始学架构](https://upload-images.jianshu.io/upload_images/12890819-b1c9fe57055eb8ed.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  |
 | ![分布式金融架构课](https://upload-images.jianshu.io/upload_images/12890819-eeefae04654464bd.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) |  | 
+
 
 
 
